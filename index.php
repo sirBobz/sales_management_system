@@ -28,10 +28,9 @@
    
     <div class="login-box">
       <div class="login-logo">
-        <b>Sales and Inventory with Credit Management System</b>
       </div><!-- /.login-logo -->
       <div class="login-box-body">
-        <p class="login-box-msg">Sign in to start your session</p>
+        <p class="login-box-msg">Login</p>
         <form action="login.php" method="post">
           <div class="form-group has-feedback">
             <input type="text" class="form-control" placeholder="Username" name="username" required>
